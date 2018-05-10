@@ -9,7 +9,7 @@ nevydržel pouze pět století, on přežil i nástup elektronické sazby
 v podstatě beze změny. Nejvíce popularizováno bylo Lorem Ipsum
 v šedesátých letech 20. století, kdy byly vydávány speciální vzorníky
 s jeho pasážemi a později pak díky počítačovým DTP programům jako
-Aldus PageMaker.
+Aldus PageMaker a jiným.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
